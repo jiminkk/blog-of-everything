@@ -3,7 +3,7 @@ title: universe and everything else
 description: >
   rarer than a can of dandelion and burdock
 
-baseurl: "https://jiminkk.github.io" # the subpath of your site, e.g. /blog/
+baseurl: "https://jiminkk.github.io/blog-of-everything" # the subpath of your site, e.g. /blog/
 url: "http://hitchhiker.ma" # the base hostname & protocol for your site
 
 author:
