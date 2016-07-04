@@ -38,7 +38,7 @@
     <url>
       <loc>http://hitchhiker.ma/about/</loc>
       
-        <lastmod>2016-07-03T21:56:36-07:00</lastmod>
+        <lastmod>2016-07-03T22:47:20-07:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -53,7 +53,7 @@
     <url>
       <loc>http://hitchhiker.ma/archive/</loc>
       
-        <lastmod>2016-07-03T21:56:36-07:00</lastmod>
+        <lastmod>2016-07-03T22:47:20-07:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -66,9 +66,9 @@
   
     
     <url>
-      <loc>http://hitchhiker.ma/categories/design/</loc>
+      <loc>http://hitchhiker.ma/categories/favorite-couples/</loc>
       
-        <lastmod>2016-07-03T21:56:36-07:00</lastmod>
+        <lastmod>2016-07-03T22:47:20-07:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -79,13 +79,28 @@
     </url>
     
   
+    
+  
+    
+    <url>
+      <loc>http://hitchhiker.ma/categories/film-reviews/</loc>
+      
+        <lastmod>2016-07-03T22:47:20-07:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.5</priority>
+      
+    </url>
     
   
     
     <url>
       <loc>http://hitchhiker.ma/</loc>
       
-        <lastmod>2016-07-03T21:56:36-07:00</lastmod>
+        <lastmod>2016-07-03T22:47:20-07:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -99,29 +114,14 @@
     
   
     
-    <url>
-      <loc>http://hitchhiker.ma/categories/productivity/</loc>
-      
-        <lastmod>2016-07-03T21:56:36-07:00</lastmod>
-      
-      
-        <changefreq>monthly</changefreq>
-      
-      
-        <priority>0.5</priority>
-      
-    </url>
-    
-  
-    
   
     
   
     
     <url>
-      <loc>http://hitchhiker.ma/categories/tools/</loc>
+      <loc>http://hitchhiker.ma/categories/wine-reviews/</loc>
       
-        <lastmod>2016-07-03T21:56:36-07:00</lastmod>
+        <lastmod>2016-07-03T22:47:20-07:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
