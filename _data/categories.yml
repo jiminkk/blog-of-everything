@@ -1,8 +1,11 @@
 - slug: wine
   name: wine
 
-- slug: favorite-couples
-  name: favorite couples
+- slug: favorite-couples-people
+  name: favorite couples n people
 
 - slug: film
   name: film
+
+- slug: songs-lyrics
+  name: songs n lyrics
