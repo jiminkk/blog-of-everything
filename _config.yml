@@ -4,7 +4,7 @@ description: >
   rarer than a can of dandelion and burdock
 
 baseurl: "https://jiminkk.github.io/blog-of-everything" # the subpath of your site, e.g. /blog/
-url: "http://4.bp.blogspot.com/-9y_rU0aoGOo/U1DjuX6cQaI/AAAAAAAAAcU/sjjUADaZgK4/s1600/brent-heighton-april-in-paris.jpg" # the base hostname & protocol for your site
+url: "https://jiminkk.github.io/blog-of-everything" # the base hostname & protocol for your site
 
 author:
   fullname: lemur & ferret
