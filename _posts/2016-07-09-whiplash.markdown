@@ -6,7 +6,7 @@ date:   2016-07-07 22:55:00
 categories: [film]
 ---
 
-![whiplash]({{ site.url }}/assets/post-images/whiplash.jpg){:height="150px"}
+![whiplash]({{ site.url }}/assets/post-images/whiplash.jpg){:height="350px"}
 
 *This blog post contains spoilers.*
 
@@ -59,7 +59,7 @@ lemur: 8.83/10
 
 Here is the historic final scene:
 
-<center><iframe width="420" height="315" src="https://www.youtube.com/watch?v=twKsU1Qv4k8" frameborder="0" allowfullscreen></iframe></center>
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/twKsU1Qv4k8" frameborder="0" allowfullscreen></iframe></center>
 
 
 
