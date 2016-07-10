@@ -57,10 +57,6 @@ ferret: 8.9/10
 
 lemur: 8.83/10
 
-Here is the historic final scene:
+Here is the historic final performance:
 
-<center><iframe width="560" height="315" src="https://www.youtube.com/embed/twKsU1Qv4k8" frameborder="0" allowfullscreen></iframe></center>
-
-
-
-
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/TS-G4UQTfUo" frameborder="0" allowfullscreen></iframe></center>
