@@ -5,7 +5,6 @@ subtitle: "alex turner"
 date:   2016-07-07 22:55:00
 categories: [songs-lyrics]
 author: lemur
-url: http://4.bp.blogspot.com/-9y_rU0aoGOo/U1DjuX6cQaI/AAAAAAAAAcU/sjjUADaZgK4/s1600/brent-heighton-april-in-paris.jpg
 ---
 
 ![piledriver waltz]({{ site.url }}/assets/post-images/piledriver-waltz.jpg){:height="350px"}
