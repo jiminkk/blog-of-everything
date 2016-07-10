@@ -4,6 +4,7 @@ title:  "whiplash"
 subtitle: "music | drama film"
 date:   2016-07-09 23:49:00
 categories: [film]
+author: ferret
 ---
 
 ![whiplash]({{ site.url }}/assets/post-images/whiplash.jpg){:height="350px"}
